@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.a380d9c5.css",
-    "main.js": "/static/js/main.add3c93a.js",
+    "main.css": "/static/css/main.e339fcf2.css",
+    "main.js": "/static/js/main.462b0f43.js",
     "static/media/magasinVirtuel.png": "/static/media/magasinVirtuel.f89b99fa8dfd5b5b153e.png",
     "static/media/annuaire.png": "/static/media/annuaire.19751165db78b3a35739.png",
-    "static/media/CV.pdf": "/static/media/CV.39575159de01289c9a97.pdf",
     "static/media/appliMobile.png": "/static/media/appliMobile.e3ec5ceb49c10b3cd844.png",
+    "static/media/CV.pdf": "/static/media/CV.c100e0a098256cc47f38.pdf",
     "static/media/oracleSQL.png": "/static/media/oracleSQL.f7150af58281864d0c2d.png",
     "static/media/python.png": "/static/media/python.1eaaad356f1e20a2540f.png",
     "static/media/killBique.jpg": "/static/media/killBique.d5f28f971ff7d422d512.jpg",
@@ -26,11 +26,11 @@
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.a380d9c5.css.map": "/static/css/main.a380d9c5.css.map",
-    "main.add3c93a.js.map": "/static/js/main.add3c93a.js.map"
+    "main.e339fcf2.css.map": "/static/css/main.e339fcf2.css.map",
+    "main.462b0f43.js.map": "/static/js/main.462b0f43.js.map"
   },
   "entrypoints": [
-    "static/css/main.a380d9c5.css",
-    "static/js/main.add3c93a.js"
+    "static/css/main.e339fcf2.css",
+    "static/js/main.462b0f43.js"
   ]
 }
