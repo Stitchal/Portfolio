@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e339fcf2.css",
-    "main.js": "/static/js/main.462b0f43.js",
+    "main.js": "/static/js/main.160c6b0b.js",
     "static/media/magasinVirtuel.png": "/static/media/magasinVirtuel.f89b99fa8dfd5b5b153e.png",
     "static/media/annuaire.png": "/static/media/annuaire.19751165db78b3a35739.png",
     "static/media/appliMobile.png": "/static/media/appliMobile.e3ec5ceb49c10b3cd844.png",
@@ -27,10 +27,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.e339fcf2.css.map": "/static/css/main.e339fcf2.css.map",
-    "main.462b0f43.js.map": "/static/js/main.462b0f43.js.map"
+    "main.160c6b0b.js.map": "/static/js/main.160c6b0b.js.map"
   },
   "entrypoints": [
     "static/css/main.e339fcf2.css",
-    "static/js/main.462b0f43.js"
+    "static/js/main.160c6b0b.js"
   ]
 }
